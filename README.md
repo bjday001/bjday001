@@ -13,6 +13,7 @@ Création de l'api du site.
 L'equipe était composée de 5 developpeurs ( 3 côté front et 2 côté back).
 
 Lien du site : https://projet-o-en-couleurs-front.vercel.app/
+
 Lien de l'api : https://apicolorize.me/
 
 # 👨‍💻 Technologies
@@ -30,3 +31,7 @@ Lien de l'api : https://apicolorize.me/
 # 🔍 Centres d'interets
 
 J'aime les voyages, la lecture, la cuisine, le jardinage, le cinéma.
+
+# Contactez moi 
+
+<a href="mailto:contact.brahimjday@gmail.com"><img src="https://camo.githubusercontent.com/64726ae26aa586836a5802d076ff686b65dc5ba224cbef78f63e831f418950bb/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f676d61696c2d69636f6e2e737667" width="30" data-canonical-src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" style="max-width: 100%;"></a>
