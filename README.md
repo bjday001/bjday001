@@ -16,6 +16,8 @@ Lien du site : https://projet-o-en-couleurs-front.vercel.app/
 
 Lien de l'api : https://apicolorize.me/
 
+Mon pense bete : terminé, en cours de déploiement.
+
 # 👨‍💻 Technologies
 ## Langages
 <img src="https://camo.githubusercontent.com/237fc767e09cfe6129076f3e89080a6b5ac5d2ac0ec717880e57435be932ba15/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3232362f3232363236392e706e67" width="40" data-canonical-src="https://cdn-icons-png.flaticon.com/512/226/226269.png" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/809a763f1c8f3497709ff0a974bfe7dd11be4dd7a29085645f8e98fbaa4a26e4/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3733322f3733323139302e706e67" width="40" data-canonical-src="https://cdn-icons-png.flaticon.com/512/732/732190.png" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/6fb2870433b72c0321a8d383bb435ce79c2336f065adcce38edb0cba148cde00/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3532382f3532383236312e706e67" width="40" data-canonical-src="https://cdn-icons-png.flaticon.com/512/528/528261.png" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/25f26809cd3cd43d11248d51f94bfd86565b6272d8483febc4ab055237e16a7f/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3931392f3931393832382e706e67" width="45" data-canonical-src="https://cdn-icons-png.flaticon.com/512/919/919828.png" style="max-width: 100%;">
